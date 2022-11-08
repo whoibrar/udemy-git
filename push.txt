@@ -1,3 +1,3 @@
 pushing this file
 
-Which branch are we in ? main branch
+Which branch are we in ? conflicting branch

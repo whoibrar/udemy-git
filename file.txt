@@ -2,4 +2,8 @@ fresh commit
 
 [this is going to be committed]
 
+<<<<<<< HEAD
 What is the time ? 1:27 am
+=======
+What is the time ? 1:25 am 
+>>>>>>> conflict
